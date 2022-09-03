@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\bin\Debug\net6.0\Task64AllNaturalNumbers.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\bin\Debug\net6.0\Task64AllNaturalNumbers.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\bin\Debug\net6.0\Task64AllNaturalNumbers.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\bin\Debug\net6.0\Task64AllNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\bin\Debug\net6.0\Task64AllNaturalNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\refint\Task64AllNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\Task64AllNaturalNumbers.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task64AllNaturalNumbers\obj\Debug\net6.0\ref\Task64AllNaturalNumbers.dll
