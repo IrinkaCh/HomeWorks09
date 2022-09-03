@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\bin\Debug\net6.0\Tack68CalculationAckermanFunctions.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\bin\Debug\net6.0\Tack68CalculationAckermanFunctions.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\bin\Debug\net6.0\Tack68CalculationAckermanFunctions.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\bin\Debug\net6.0\Tack68CalculationAckermanFunctions.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\bin\Debug\net6.0\Tack68CalculationAckermanFunctions.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\refint\Tack68CalculationAckermanFunctions.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\Tack68CalculationAckermanFunctions.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Tack68CalculationAckermanFunctions\obj\Debug\net6.0\ref\Tack68CalculationAckermanFunctions.dll
