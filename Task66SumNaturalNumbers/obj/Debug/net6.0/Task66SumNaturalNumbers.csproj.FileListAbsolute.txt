@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\bin\Debug\net6.0\Task66SumNaturalNumbers.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\bin\Debug\net6.0\Task66SumNaturalNumbers.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\bin\Debug\net6.0\Task66SumNaturalNumbers.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\bin\Debug\net6.0\Task66SumNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\bin\Debug\net6.0\Task66SumNaturalNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\refint\Task66SumNaturalNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\Task66SumNaturalNumbers.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks09\HomeWorks09\Task66SumNaturalNumbers\obj\Debug\net6.0\ref\Task66SumNaturalNumbers.dll
